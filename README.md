@@ -177,3 +177,6 @@ This repository serves as the official landing page for ADInstruments Scheduler.
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ADInstruments Scheduler today!**
+
+---
+**Last updated:** 2026-11-07 23:28:50 UTC
