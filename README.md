@@ -179,4 +179,4 @@ This repository serves as the official landing page for ADInstruments Scheduler.
 **Get the most recent version of ADInstruments Scheduler today!**
 
 ---
-**Last updated:** 2026-11-09 20:29:31 UTC
+**Last updated:** 2026-11-10 03:15:49 UTC
